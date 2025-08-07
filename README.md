@@ -23,9 +23,6 @@
 <h4>
 <a target="_blank"href="https://www.openai.com">OPEN openai</a><br>
 <a target="_blank" href="https://www.grok.com">OPEN grok</a><br>
-
 </h4>
-
-<script src="script.js"></script>
 </body>
 </html>
