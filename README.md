@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>MY BOOK MARKS</h1>
-    <H4 style="font-size: medium;">PRIMARY BOOKMARKS <br>
+    <H1 style="font-size: medium;">PRIMARY BOOKMARKS <br>
     <a target="_blank" href="https://www.google.com">OPEN google</a><br>
     <a target="_blank" href="https://www.facebook.com">OPEN facebook</a><br>
     <a target="_blank" href="https://www.instagram.com">OPEN instagram</a><br>
@@ -17,7 +17,7 @@
     <a target="_blank" href="https://www.x.com">OPEN x</a> <br>
     <a target="_blank"href="https://www.wikipedia.com">OPEN wikipedia</a> <br> 
     <a target="_blank" href="https://www.adda247.com">OPEN adda247</a><br>
-</H4> <br>
+</H1> <br>
 
 <h1> SECONDARY BOOKMARKS</h1>
 <h4>
